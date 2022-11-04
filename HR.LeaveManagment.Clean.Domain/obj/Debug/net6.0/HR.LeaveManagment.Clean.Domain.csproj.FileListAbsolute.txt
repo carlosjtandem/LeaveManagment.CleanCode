@@ -3,3 +3,10 @@ C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Clean
 C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Clean.Domain\obj\Debug\net6.0\HR.LeaveManagment.Clean.Domain.AssemblyInfoInputs.cache
 C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Clean.Domain\obj\Debug\net6.0\HR.LeaveManagment.Clean.Domain.AssemblyInfo.cs
 C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Clean.Domain\obj\Debug\net6.0\HR.LeaveManagment.Clean.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Clean.Domain\bin\Debug\net6.0\HR.LeaveManagment.Clean.Domain.deps.json
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Clean.Domain\bin\Debug\net6.0\HR.LeaveManagment.Clean.Domain.dll
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Clean.Domain\bin\Debug\net6.0\HR.LeaveManagment.Clean.Domain.pdb
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Clean.Domain\obj\Debug\net6.0\HR.LeaveManagment.Clean.Domain.dll
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Clean.Domain\obj\Debug\net6.0\refint\HR.LeaveManagment.Clean.Domain.dll
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Clean.Domain\obj\Debug\net6.0\HR.LeaveManagment.Clean.Domain.pdb
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Clean.Domain\obj\Debug\net6.0\ref\HR.LeaveManagment.Clean.Domain.dll
