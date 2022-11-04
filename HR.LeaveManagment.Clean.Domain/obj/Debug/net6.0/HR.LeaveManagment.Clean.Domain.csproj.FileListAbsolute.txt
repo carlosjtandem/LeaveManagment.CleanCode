@@ -1,0 +1,5 @@
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Clean.Domain\obj\Debug\net6.0\HR.LeaveManagment.Clean.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Clean.Domain\obj\Debug\net6.0\HR.LeaveManagment.Clean.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Clean.Domain\obj\Debug\net6.0\HR.LeaveManagment.Clean.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Clean.Domain\obj\Debug\net6.0\HR.LeaveManagment.Clean.Domain.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Clean.Domain\obj\Debug\net6.0\HR.LeaveManagment.Clean.Domain.csproj.CoreCompileInputs.cache
