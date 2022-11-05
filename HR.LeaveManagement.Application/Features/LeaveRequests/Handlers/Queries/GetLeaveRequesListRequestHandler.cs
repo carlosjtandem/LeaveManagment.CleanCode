@@ -23,7 +23,7 @@ namespace HR.LeaveManagement.Application.Features.LeaveRequests.Handlers.Queries
         }
         public async Task<List<LeaveRequestDto>> Handle(GetLeaveRequestListRequest request, CancellationToken cancellationToken)
         {
-            var LeaveRequests = await _LeaveRequestRepository.GetAll();
+            var LeaveRequests = await _LeaveRequestRepository.GetLeaveRequestsWithDetails();
             return _mapper.Map<List<LeaveRequestDto>>(LeaveRequests);
         }
     }
