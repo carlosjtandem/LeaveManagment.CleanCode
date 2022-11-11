@@ -11,12 +11,12 @@ using System.Threading.Tasks;
 
 namespace HR.LeaveManagement.Application.Features.LeaveRequests.Handlers.Queries
 {
-    public class GetLeaveRequesListRequestHandler : IRequestHandler<GetLeaveRequestListRequest, List<LeaveRequestDto>>
+    public class GetLeaveRequestListRequestHandler : IRequestHandler<GetLeaveRequestListRequest, List<LeaveRequestDto>>
     {
         private readonly ILeaveRequestRepository _LeaveRequestRepository;
         private readonly IMapper _mapper;
 
-        public GetLeaveRequesListRequestHandler(ILeaveRequestRepository LeaveRequestRepository, IMapper mapper)
+        public GetLeaveRequestListRequestHandler(ILeaveRequestRepository LeaveRequestRepository, IMapper mapper)
         {
             _LeaveRequestRepository = LeaveRequestRepository;
             _mapper = mapper;

@@ -1,13 +1,7 @@
 ﻿using HR.LeaveManagment.Clean.Domain.Common;
-using leave_management.Data;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace leave_management.Domain
+
+namespace leave_management.Data
 {
     public class LeaveRequest: BaseDomainEntity
     {
@@ -17,7 +11,7 @@ namespace leave_management.Domain
         public int LeaveTypeId { get; set; }
         public DateTime DateRequested { get; set; }
         public string? RequestComments { get; set; }
-        public DateTime DateActioned { get; set; }
+        public DateTime? DateActioned { get; set; }
         public bool? Approved { get; set; }
         public bool Cancelled { get; set; }
     }
