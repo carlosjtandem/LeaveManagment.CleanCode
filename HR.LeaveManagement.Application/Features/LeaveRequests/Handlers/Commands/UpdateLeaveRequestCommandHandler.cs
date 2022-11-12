@@ -1,0 +1,39 @@
+﻿using AutoMapper;
+using HR.LeaveManagement.Application.Features.LeaveRequests.Requests.Commands;
+using HR.LeaveManagement.Application.Persistence.Contracts;
+using MediatR;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HR.LeaveManagement.Application.Features.LeaveRequests.Handlers.Commands
+{
+    public class UpdateLeaveRequestCommandHandler : IRequestHandler<UpdateLeaveRequestCommand, Unit>
+    {
+        private readonly ILeaveRequestRepository _LeaveRequestRepository;
+        private readonly IMapper _mapper;
+
+        public UpdateLeaveRequestCommandHandler(ILeaveRequestRepository LeaveRequestRepository, IMapper mapper)
+        {
+            _LeaveRequestRepository = LeaveRequestRepository;
+            _mapper = mapper;
+        }
+        public async Task<Unit> Handle(UpdateLeaveRequestCommand request, CancellationToken cancellationToken)
+        {
+            var leaveRequest = await _LeaveRequestRepository.Get(request.Id);
+            if (request.LeaveRequestDto != null)
+            {
+                _mapper.Map(request.LeaveRequestDto, leaveRequest);
+                await _LeaveRequestRepository.Update(leaveRequest);
+            }
+            else if (request.ChangeLeaveRequestApprovalDto != null)
+            {
+                await _LeaveRequestRepository.ChangeApprovalStatus(leaveRequest, request.ChangeLeaveRequestApprovalDto.Approved);
+
+            }
+            return Unit.Value;
+        }
+    }
+}
