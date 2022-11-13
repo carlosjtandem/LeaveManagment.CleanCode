@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace HR.LeaveManagement.Application.DTOs.LeaveAllocation
 {
     //Not need reference to a pk - id
-    public class CreateLeaveallocationDto
+    public class CreateLeaveAllocationDto : ILeaveAllocationDto
     {
         public int NumberOfDays { get; set; }
         public int LeaveTypeID { get; set; }
