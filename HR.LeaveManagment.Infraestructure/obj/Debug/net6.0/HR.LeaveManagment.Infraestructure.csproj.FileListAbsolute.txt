@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Infraestructure\bin\Debug\net6.0\HR.LeaveManagment.Infraestructure.deps.json
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Infraestructure\bin\Debug\net6.0\HR.LeaveManagment.Infraestructure.dll
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Infraestructure\bin\Debug\net6.0\HR.LeaveManagment.Infraestructure.pdb
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Infraestructure\obj\Debug\net6.0\HR.LeaveManagment.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Infraestructure\obj\Debug\net6.0\HR.LeaveManagment.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Infraestructure\obj\Debug\net6.0\HR.LeaveManagment.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Infraestructure\obj\Debug\net6.0\HR.LeaveManagment.Infraestructure.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Infraestructure\obj\Debug\net6.0\HR.LeaveManagment.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Infraestructure\obj\Debug\net6.0\HR.LeaveManagment.Infraestructure.dll
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Infraestructure\obj\Debug\net6.0\refint\HR.LeaveManagment.Infraestructure.dll
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Infraestructure\obj\Debug\net6.0\HR.LeaveManagment.Infraestructure.pdb
+C:\Users\Usuario\source\repos\Learning\HR.LeaveManagment\HR.LeaveManagment.Infraestructure\obj\Debug\net6.0\ref\HR.LeaveManagment.Infraestructure.dll
